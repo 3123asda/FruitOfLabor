@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FruitOfLabor/static/css/main.43c9b081.css",
+    "main.js": "/FruitOfLabor/static/js/main.39e7f10d.js",
+    "index.html": "/FruitOfLabor/index.html",
+    "main.43c9b081.css.map": "/FruitOfLabor/static/css/main.43c9b081.css.map",
+    "main.39e7f10d.js.map": "/FruitOfLabor/static/js/main.39e7f10d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c9b081.css",
+    "static/js/main.39e7f10d.js"
+  ]
+}
